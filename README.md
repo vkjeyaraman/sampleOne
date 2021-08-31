@@ -1,2 +1,2 @@
 # sampleOne
-how to use git 
+to know how to use git 
